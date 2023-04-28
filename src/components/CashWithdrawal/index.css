@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.greet1 {
+  background-color: white;
+  padding: 25px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.greet2 {
+  background-color: violet;
+  height: 550px;
+  width: 500px;
+}
+.greet21 {
+  background-color: white;
+  height: 50px;
+  border: solid;
+  width: 50px;
+  border-radius: 50px;
+  text-align: center;
+  margin: 20px;
+}
+.greet22 {
+  display: flex;
+  justify-content: flex-start;
+}
+.greet23 {
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
+}
+.greet3 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.greet33 {
+  margin: 20px;
+}
